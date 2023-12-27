@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ma Paroisse</string>
+    <string name="title_activity_main">Ma Paroisse</string>
+    <string name="package_name">com.iksox.maparoisse</string>
+    <string name="custom_url_scheme">com.iksox.maparoisse</string>
+</resources>
